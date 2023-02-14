@@ -13,4 +13,4 @@ Q10. Create a horizontal bar chart showing the totals by Movie
 Q11. Create a vertical bar chart showing the average value by Genre
 Q12. Create a pie chart showing the average value by 
 
-![Uploading image.png…]
+![Screenshot 2023-01-24 141155](https://user-images.githubusercontent.com/124888942/218719988-2b46e594-cd86-4d2c-97e0-dd42e2deeaf5.png)
